@@ -1,5 +1,23 @@
-# 💫 About Me:
-WanderLust<br>I’m currently learning Currently exploring performance optimization techniques in React and efficient database design for scalable applications.<br>Ask me about react,node.js,express.js<br><br>
+## 💫 About Me
+
+🚀 Full Stack Developer & AI/ML Enthusiast from India  
+
+🌍 Building scalable and user-friendly web applications  
+⚡ Passionate about creating smooth UI/UX and solving real-world problems  
+
+📚 Currently exploring:
+- Performance optimization techniques in React  
+- Efficient database design for scalable applications  
+
+💬 Ask me about:
+- React.js  
+- Node.js  
+- Express.js
+- Data Structure And Algorithms
+
+🌱 Constantly learning, building, and improving every day  
+
+✨ "Turning ideas into impactful digital experiences"
 
 
 ## 🌐 Socials:
@@ -14,5 +32,3 @@ WanderLust<br>I’m currently learning Currently exploring performance optimizat
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashwanikumar107&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
