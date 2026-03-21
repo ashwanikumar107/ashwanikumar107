@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-🚀 Full Stack Developer & AI/ML Enthusiast from India  
+🚀 Full Stack Developer & AI/ML Enthusiast  
 
 🌍 Building scalable and user-friendly web applications  
 ⚡ Passionate about creating smooth UI/UX and solving real-world problems  
@@ -9,16 +9,7 @@
 - Performance optimization techniques in React  
 - Efficient database design for scalable applications  
 
-💬 Ask me about:
-- React.js  
-- Node.js  
-- Express.js
-- Data Structure And Algorithms
-
-🌱 Constantly learning, building, and improving every day  
-
-✨ "Turning ideas into impactful digital experiences"
-
+💬 Ask me about: React.js, Node.js, Express.js, Data Structure And Algorithms
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak1705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwani107kumar@gmail.com) 
