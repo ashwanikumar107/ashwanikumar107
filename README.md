@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-🚀 Full Stack Developer & AI/ML Enthusiast  
+🚀 Full Stack Developer & AI/ML Enthusiast   
 
 🌍 Building scalable and user-friendly web applications  
 ⚡ Passionate about creating smooth UI/UX and solving real-world problems  
