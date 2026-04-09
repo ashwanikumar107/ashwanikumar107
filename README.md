@@ -11,7 +11,12 @@
 
 💬 Ask me about: React.js, Node.js, Express.js, Data Structure And Algorithm
 ---
-![snake animation](https://raw.githubusercontent.com/ashwanikumar107/ashwanikumar107/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwanikumar107/ashwanikumar107/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ashwanikumar107/ashwanikumar107/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak1705) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwani107kumar@gmail.com) 
