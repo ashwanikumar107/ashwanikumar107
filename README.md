@@ -9,7 +9,7 @@
 - Performance optimization techniques in React  
 - Efficient database design for scalable applications  
 
-💬 Ask me about: React.js, Node.js, Express.js, Data Structure And Algorithm
+💬 Ask me about: React.js, Node.js, Express.js, Data Structure And Algorithm.
 
 ---
 ## 🐍 Contribution Snake  
