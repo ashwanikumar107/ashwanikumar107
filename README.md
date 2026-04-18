@@ -6,8 +6,8 @@
 ⚡ Passionate about creating smooth UI/UX and solving real-world problems.
 
 📚 Currently exploring:
-- Performance optimization techniques in React  
-- Efficient database design for scalable applications  
+- Performance optimization techniques in React.
+- Efficient database design for scalable applications.
 
 💬 Ask me about: React.js, Node.js, Express.js, Data Structure And Algorithm.
 
