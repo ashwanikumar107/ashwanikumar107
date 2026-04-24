@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikumar107&label=Profile%20views&color=0e75b6&style=flat" alt="pavitraa" /> </p>
 ## 💫 About Me
 
 🚀 Full Stack Developer & AI/ML Enthusiast 
